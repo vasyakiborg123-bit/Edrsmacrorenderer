@@ -1,0 +1,11 @@
+{
+	"geode": "*",
+	"gd": {
+		"android": "2.2074"
+	},
+	"id": "vasyakiborg.edrsmacrorenderer",
+	"name": "EDRS Macro Renderer",
+	"version": "v1.0.0",
+	"developer": "vasyakiborg",
+	"description": "Macro renderer mod for GD 2.2074"
+}
