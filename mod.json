@@ -3,9 +3,9 @@
 	"gd": {
 		"android": "2.2074"
 	},
-	"id": "vasyakiborg.edrsmacrorenderer",
+	"id": "edr301.edrsmacrorenderer",
 	"name": "EDRS Macro Renderer",
 	"version": "v1.0.0",
-	"developer": "vasyakiborg",
-	"description": "Macro renderer mod for Geode v4"
+	"developer": "edr301",
+	"description": "Macro renderer(mp4)"
 }
