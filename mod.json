@@ -1,5 +1,5 @@
 {
-	"geode": "*",
+	"geode": "4.0.0",
 	"gd": {
 		"android": "2.2074"
 	},
@@ -7,5 +7,5 @@
 	"name": "EDRS Macro Renderer",
 	"version": "v1.0.0",
 	"developer": "vasyakiborg",
-	"description": "Macro renderer mod for GD 2.2074"
+	"description": "Macro renderer mod for Geode v4"
 }
